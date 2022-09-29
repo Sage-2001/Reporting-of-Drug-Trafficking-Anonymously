@@ -1,0 +1,9 @@
+Home page is x.php 
+The code is in PHP
+So Xampp should be installed 
+MySQLi and Apache server should be running 
+Store the whole folder sm in htdocs and load using the command in web browser http://localhost/sm/x.php
+Two databases are made for this project 
+Use this command http://localhost/phpmyadmin and then make the database 
+DataBase 1 admin      tablename:- loginform(ID pk,USER,PASSWORD)
+DataBase 2 contacts      tablename:- contactus(id pk,aadhar_no,location,message,date(datetime))
